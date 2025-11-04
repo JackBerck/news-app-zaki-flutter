@@ -1,0 +1,175 @@
+{
+  "articles": [
+    {
+      "id": "berita-1",
+      "title": "Presiden Prabowo Paparkan Manfaat AI untuk Atasi Kemiskinan di APEC 2025",
+      "author": "Redaksi Nasional",
+      "date": "3 November 2025",
+      "category": "Berita Utama",
+      "imageUrl": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=800",
+      "content": "Presiden Republik Indonesia Prabowo Subianto menegaskan bahwa pemanfaatan kecerdasan buatan (AI) dan teknologi tinggi menjadi kunci bagi Indonesia dalam mempercepat pengentasan kemiskinan serta memperkuat ketahanan pangan. Hal tersebut disampaikan Presiden pada APEC Economic Leaders' Meeting (AELM) sesi ke-2 di Hwabaek International Convention Centre (HICO), Gyeongju, Republik Korea, pada Sabtu, 1 November 2025. Presiden Prabowo menilai kedua hal tersebut sebagai tugas paling mendesak dalam pembangunan nasional."
+    },
+    {
+      "id": "berita-2",
+      "title": "KPK OTT Gubernur Riau Abdul Wahid, Diduga Terkait Gratifikasi",
+      "author": "Tim Investigasi",
+      "date": "4 November 2025",
+      "category": "Berita Utama",
+      "imageUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800",
+      "content": "Komisi Pemberantasan Korupsi (KPK) melakukan operasi tangkap tangan (OTT) di Riau pada Senin (3/11/2025). Gubernur Riau Abdul Wahid turut ditangkap dalam operasi tersebut. KPK turut menangkap 2 orang lainnya yang terkait dengan kasus ini. Para tersangka telah tiba di Gedung Merah Putih KPK untuk proses pemeriksaan lebih lanjut."
+    },
+    {
+      "id": "berita-3",
+      "title": "Prabowo Resmikan Stasiun Tanah Abang Baru, Dukung Transportasi Publik",
+      "author": "Reporter Jakarta",
+      "date": "4 November 2025",
+      "category": "Berita Utama",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800",
+      "content": "Presiden Prabowo Subianto meresmikan Stasiun Tanah Abang Baru di Jakarta setelah sebelumnya mencoba naik KRL. Peresmian ini merupakan bagian dari komitmen pemerintah untuk mendukung transportasi publik yang lebih baik dan modern. Stasiun ini diharapkan dapat meningkatkan kenyamanan penumpang dan efisiensi sistem transportasi massal di ibu kota."
+    },
+    {
+      "id": "berita-4",
+      "title": "Transaksi Judi Online di RI Capai Rp 155 Triliun hingga Oktober",
+      "author": "Desk Ekonomi",
+      "date": "4 November 2025",
+      "category": "Berita Utama",
+      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800",
+      "content": "PPATK mengungkapkan perputaran uang judi online di Indonesia mencapai Rp 155 triliun hingga Oktober 2025, turun 56 persen dari periode sebelumnya. Penurunan ini menunjukkan efektivitas fokus pemerintah pada pemberantasan judi online yang kini menjadi prioritas nasional dalam upaya melindungi masyarakat."
+    },
+    {
+      "id": "tech-1",
+      "title": "Vivo X300 Series Siap Rilis di Indonesia dengan Julukan Camera Kings",
+      "author": "Tech Reviewer",
+      "date": "4 November 2025",
+      "category": "Teknologi",
+      "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+      "content": "Vivo X300 Series siap meluncur di Indonesia dengan julukan Camera Kings. Smartphone flagship ini menghadirkan sistem kamera canggih yang diprediksi akan mengubah standar fotografi mobile di tanah air. Perangkat ini dilengkapi dengan sensor terbaru dan teknologi AI untuk menghasilkan foto berkualitas profesional dalam berbagai kondisi pencahayaan."
+    },
+    {
+      "id": "tech-2",
+      "title": "Samsung Bangun Pabrik AI Raksasa, Andalkan 50.000 GPU Nvidia Blackwell",
+      "author": "Innovation Desk",
+      "date": "4 November 2025",
+      "category": "Teknologi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "content": "Samsung mengumumkan pembangunan pabrik AI raksasa yang akan menggunakan 50.000 GPU Nvidia Blackwell. Investasi besar-besaran ini menandai komitmen Samsung dalam mengembangkan teknologi kecerdasan buatan generasi terbaru. Pabrik ini diharapkan dapat memproduksi chip AI dengan performa tinggi untuk berbagai aplikasi industri dan konsumen."
+    },
+    {
+      "id": "tech-3",
+      "title": "Remala Abadi Siapkan Internet 10 Gbps, Lampaui Rata-rata Nasional",
+      "author": "Telco Reporter",
+      "date": "4 November 2025",
+      "category": "Teknologi",
+      "imageUrl": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800",
+      "content": "PT Remala Abadi bersiap menghadirkan layanan internet berkecepatan 10 Gbps yang jauh melampaui rata-rata kecepatan internet nasional. Layanan ini akan memberikan pengalaman internet super cepat untuk konsumen dan bisnis. Teknologi fiber optik terbaru yang digunakan memungkinkan transfer data dalam hitungan detik untuk file berukuran besar."
+    },
+    {
+      "id": "tech-4",
+      "title": "Kacamata Pintar Lenovo AI V1 Meluncur 9 November dengan Fitur Unik",
+      "author": "Gadget News",
+      "date": "4 November 2025",
+      "category": "Teknologi",
+      "imageUrl": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800",
+      "content": "Lenovo akan meluncurkan kacamata pintar AI V1 pada 9 November 2025 dengan berbagai fitur unik berbasis kecerdasan buatan. Perangkat wearable ini dapat membantu pengguna dalam berbagai aktivitas sehari-hari, mulai dari navigasi, penerjemahan real-time, hingga asisten pribadi yang terintegrasi dengan AI."
+    },
+    {
+      "id": "tech-5",
+      "title": "OnePlus 15 Series Siap Dirilis 13 November dengan Snapdragon 8 Elite",
+      "author": "Mobile Tech",
+      "date": "1 November 2025",
+      "category": "Teknologi",
+      "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+      "content": "OnePlus 15 hadir sebagai penerus flagship dengan chipset Snapdragon 8 Elite Gen 5 yang super kencang, layar LTPO AMOLED 6,78 inci beresolusi tinggi, serta baterai raksasa 7.300 mAh yang mendukung pengisian cepat 120W. Smartphone ini diprediksi akan menjadi salah satu flagship terkuat di tahun 2025."
+    },
+    {
+      "id": "sport-1",
+      "title": "Janice Tjen Juara Ganda di WTA 250 Chennai Open 2025",
+      "author": "Sports Desk",
+      "date": "2 November 2025",
+      "category": "Olahraga",
+      "imageUrl": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800",
+      "content": "Berita hebat datang dari dunia tenis lapangan dimana Janice Tjen menjuarai tunggal putri di turnamen WTA 250 Chennai Open 2025 di India. Tidak hanya itu, dalam partai ganda putri, Janice yang berpasangan dengan Aldila Sutjiadi juga meraih juara. Sebuah double strike yang sempurna untuk tenis Indonesia di panggung internasional."
+    },
+    {
+      "id": "sport-2",
+      "title": "Jonatan Christie Raih Gelar Juara Hylo Open 2025 di Jerman",
+      "author": "Badminton Reporter",
+      "date": "2 November 2025",
+      "category": "Olahraga",
+      "imageUrl": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800",
+      "content": "Berita hebat datang dari lapangan bulutangkis Hylo Open 2025 di Jerman dimana Jonatan Christie berhasil meraih gelar juara tunggal putra. Kemenangan ini menambah daftar prestasi atlet bulu tangkis Indonesia di kancah internasional. Sayangnya, dua wakil Indonesia lainnya yang bertanding di partai final hanya meraih posisi runner up."
+    },
+    {
+      "id": "sport-3",
+      "title": "Kiandra Ramadhipa (15 Tahun) Juara European Talent Cup 2025",
+      "author": "Motorsport News",
+      "date": "2 November 2025",
+      "category": "Olahraga",
+      "imageUrl": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800",
+      "content": "Berita hebat datang dari cabang olahraga yang tak diduga-duga dimana seorang ABG (Anak Baru Gede), Kiandra Ramadhipa (15 tahun) berhasil mengumandangkan lagu Indonesia Raya di sirkuit de Barcelona, Catalunya, Spanyol. Ia menjadi juara pada balap motor European Talent Cup 2025 setelah start dari posisi ke-24 alias posisi paling belakang."
+    },
+    {
+      "id": "sport-4",
+      "title": "Timnas Indonesia U-17 Siap Hadapi Zambia di Piala Dunia U-17 2025",
+      "author": "Football Correspondent",
+      "date": "3 November 2025",
+      "category": "Olahraga",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "content": "Timnas Indonesia U-17 akan menghadapi Zambia dalam laga perdana mereka di Piala Dunia U-17 2025. Skuad Garuda Muda telah mempersiapkan diri dengan matang untuk menghadapi kompetisi bergengsi tingkat dunia ini. Pelatih dan pemain optimis dapat memberikan penampilan terbaik dan membawa nama Indonesia di kancah sepak bola dunia."
+    },
+    {
+      "id": "sport-5",
+      "title": "Latvia Sapu Bersih Kemenangan di AQUA Futsal Four Nations Cup 2025",
+      "author": "Futsal Reporter",
+      "date": "22 September 2025",
+      "category": "Olahraga",
+      "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800",
+      "content": "Tim futsal Latvia berhasil menyapu bersih kemenangan di AQUA Futsal Four Nations Cup 2025. Performa impresif ditunjukkan oleh skuad Latvia yang tampil dominan di sepanjang turnamen. Kemenangan ini menegaskan posisi Latvia sebagai salah satu kekuatan futsal Eropa yang patut diperhitungkan."
+    },
+    {
+      "id": "business-1",
+      "title": "Ekonomi RI Diprediksi Tumbuh 5% pada Kuartal III 2025",
+      "author": "Economic Analyst",
+      "date": "4 November 2025",
+      "category": "Bisnis",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "content": "Ekonom memproyeksikan pertumbuhan ekonomi Indonesia sebesar 5% year-on-year di kuartal III 2025, didukung oleh konsumsi rumah tangga dan ekspor yang kuat. Meskipun investasi dan belanja pemerintah mengalami perlambatan, fundamental ekonomi nasional tetap solid. Secara full year 2025 diproyeksi pertumbuhannya akan mencapai 5,2 persen."
+    },
+    {
+      "id": "business-2",
+      "title": "Indonesia Negosiasi dengan AS, Target Tarif 0 Persen untuk Sawit dan Kakao",
+      "author": "Trade Correspondent",
+      "date": "4 November 2025",
+      "category": "Bisnis",
+      "imageUrl": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+      "content": "Pemerintah Indonesia akan kembali melakukan negosiasi dengan Amerika Serikat pada akhir November 2025. Pemerintah menargetkan produk unggulan seperti sawit, kakao, dan karet bisa mendapat tarif 0 persen dalam kesepakatan perdagangan bilateral. Langkah ini diharapkan dapat meningkatkan daya saing produk Indonesia di pasar AS."
+    },
+    {
+      "id": "business-3",
+      "title": "Menko Airlangga Prediksi Pertumbuhan Ekonomi Q4 Lampaui 5,12 Persen",
+      "author": "Business Desk",
+      "date": "4 November 2025",
+      "category": "Bisnis",
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+      "content": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto memproyeksikan pertumbuhan ekonomi Indonesia pada kuartal IV 2025 akan melampaui 5,12 persen. Pertumbuhan ekonomi kuartal III ditopang oleh dua mesin utama yakni belanja rumah tangga sekitar 4,94 persen dan konsumsi pemerintah yang diperkirakan tumbuh positif setelah dua kuartal sebelumnya terkontraksi."
+    },
+    {
+      "id": "business-4",
+      "title": "PMI Manufaktur Indonesia Tembus Ekspansi 3 Bulan Berturut-turut",
+      "author": "Manufacturing News",
+      "date": "3 November 2025",
+      "category": "Bisnis",
+      "imageUrl": "https://images.unsplash.com/photo-1565373679203-c2aa2cb6c224?w=800",
+      "content": "Berdasarkan laporan terbaru S&P Global, PMI manufaktur Indonesia meningkat ke level 51,2 pada Oktober 2025, naik dari posisi 50,4 pada bulan sebelumnya. Ini merupakan ekspansi ketiga berturut-turut yang menunjukkan pemulihan sektor manufaktur nasional. Peningkatan ini ditopang oleh kenaikan pesanan baru dan produksi yang terus meningkat."
+    },
+    {
+      "id": "business-5",
+      "title": "Stabilitas Sistem Keuangan Indonesia Tetap Terjaga di Triwulan III 2025",
+      "author": "Financial Reporter",
+      "date": "3 November 2025",
+      "category": "Bisnis",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "content": "Komite Stabilitas Sistem Keuangan (KSSK) mengumumkan bahwa Stabilitas Sistem Keuangan triwulan III tahun 2025 tetap terjaga dengan baik dan mendukung pencapaian pertumbuhan ekonomi. Surplus neraca perdagangan triwulan III 2025 mencapai USD 14 miliar, meningkat 63,4% quarter-to-quarter dan 112,1% year-on-year karena kuatnya daya saing produk Indonesia."
+    }
+  ]
+}
