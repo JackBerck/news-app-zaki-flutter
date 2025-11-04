@@ -4,9 +4,7 @@ Aplikasi mobile pembaca berita built with Flutter & GetX — modern, minimalis, 
 
 ## 📱 Demo
 
-<p align="center">
-  <img src="docs/app-demo.gif" alt="Demo" width="300"/>
-</p>
+![Demo](docs/demo.gif)
 
 ## ✨ Fitur Utama
 
@@ -27,8 +25,8 @@ Aplikasi mobile pembaca berita built with Flutter & GetX — modern, minimalis, 
 
 Clone repo
 ```bash
-git clone https://github.com/username/news_app_zaki.git
-cd news_app_zaki
+git clone https://github.com/JackBerck/news-app-zaki-flutter
+cd news_app_zaki_flutter
 ```
 
 Install dependencies
